@@ -187,7 +187,7 @@ public:
 
     void retranslateUi(QMainWindow *MainWindow)
     {
-        MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "MainWindow", nullptr));
+        MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "Number System Converter", nullptr));
         label_3->setText(QCoreApplication::translate("MainWindow", "\320\232\320\276\320\275\320\265\321\207\320\275\320\260\321\217 \321\201\320\270\321\201\321\202\320\265\320\274\320\260:", nullptr));
         label_2->setText(QCoreApplication::translate("MainWindow", "\320\230\321\201\321\205\320\276\320\264\320\275\320\260\321\217 \321\201\320\270\321\201\321\202\320\265\320\274\320\260:", nullptr));
         targetBaseComboBox->setItemText(0, QCoreApplication::translate("MainWindow", "10", nullptr));
