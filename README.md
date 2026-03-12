@@ -31,4 +31,5 @@ The application provides a simple graphical interface where the user can enter a
 1. Install **Qt Creator** and Qt framework.
 2. Clone the repository:
 
-<img width="800" height="632" alt="image" src="https://github.com/user-attachments/assets/85b32d61-b93e-4dfa-bb01-c911744b1952" />
+<img width="800" height="632" alt="image" src="https://github.com/user-attachments/assets/5f55fb3c-62f5-41cf-95a4-dde7cabaf51e" />
+
